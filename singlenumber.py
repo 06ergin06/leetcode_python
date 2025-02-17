@@ -14,9 +14,6 @@ class Solution(object):
 -------
 Türkçe
 -------
-Elbette! XOR (`^`) işlemi kullanarak tekrarlanmayan öğeyi bulma yöntemi, hem verimli hem de zarif bir çözümdür. Bu yöntemi adım adım açıklayayım:
-
----
 
 ### XOR İşlemi Nedir?
 XOR (exclusive OR), bit düzeyinde bir işlemdir. İki bit üzerinde çalışır ve şu kurallara sahiptir:
@@ -88,9 +85,6 @@ Sonuç: `4` (tekrarlanmayan öğe).
 -------
 English
 -------
-Of course! Here's the English version of the explanation I provided earlier about using the XOR (`^`) operation to find the unique element in a list:
-
----
 
 ### What is the XOR Operation?
 XOR (exclusive OR) is a bitwise operation. It works on two bits and follows these rules:
