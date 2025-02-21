@@ -7,7 +7,4 @@ class Solution(object):
                 y += 1
             if y == 4:
                 break
-        if y == 3:
-            return True
-        else: 
-            return False
+        return y == 3
