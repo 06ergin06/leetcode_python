@@ -11,6 +11,4 @@ class Solution(object):
                 high = mid - 1
             elif target > nums[mid]:
                 low = mid + 1
-            else:
-                return -1
         return -1
