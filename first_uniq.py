@@ -1,3 +1,4 @@
+# https://leetcode.com/problems/first-unique-character-in-a-string/description/
 from collections import Counter
 class Solution(object):
     def firstUniqChar(self,s):
