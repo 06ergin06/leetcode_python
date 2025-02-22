@@ -7,7 +7,7 @@ class Solution(object):
             return 9
         else:
             return num % 9
-        
+
 """
 ### **Türkçe (Turkish)**  
 **Neden İşe Yarar?**  
@@ -47,4 +47,5 @@ The digital root is based on the divisibility rule for 9. If the sum of a number
 **Kısaca (In Short):**  
 Dijital kök, 9 ile bölünebilme kuralının bir sonucudur ve matematiksel olarak `n % 9` ile hesaplanır.  
 The digital root is a result of the divisibility rule for 9 and is mathematically calculated as `n % 9`.
+(Deepseek)
 """
